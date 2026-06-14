@@ -267,8 +267,6 @@ The agent-led trace is the most important output of the prototype. It shows that
 
 The trace demonstrates the central safety property of the harness. Even when the agent includes extra tool arguments, the harness does not give the model arbitrary execution power. The harness executes only the approved tool logic on the controlled dataframe and logs the result.
 
-![Agent-led trace](assets/agent_led_trace.png)
-
 ---
 
 ## Safety properties demonstrated
